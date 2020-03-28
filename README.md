@@ -1,5 +1,5 @@
-Susan Young
-Tricia Miller
+## Susan Young
+## Tricia Miller
 
 # Traffic Accident Analysis
 
