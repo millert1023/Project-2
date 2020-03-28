@@ -9,9 +9,9 @@ Analyze traffic accident data to uncover correlations between associated metrics
 
 Will likely reduce dataset by time or location depending on initial cleansing and analysis.
 
-# Final analysis will:
+# Final analysis:
  
-  * Be located in GitHub repo: https://github.com/evansvillewy/Project-2
+  * Will be located in GitHub repo: https://github.com/evansvillewy/Project-2
   * Will be deployed to a public web hosting site.
   * Provide insights into the US Traffic Accident data
   * Data will be stored in a database
