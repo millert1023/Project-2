@@ -38,7 +38,7 @@ This is a countrywide car accident dataset, which covers __49 states of the Unit
 
 We reduced the source dataset down to just the data we needed for our analysis. we loaded this into SQLite.
 
-![erd](Images/erd.PNG)
+![erd](Images/erd.png)
 
 # Acknowledgements
 Citations:
